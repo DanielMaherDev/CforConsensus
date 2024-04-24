@@ -4,7 +4,7 @@ Welcome to the development repository for the "C for Consensus" social media pla
 
 ## Development Steps Overview
 
-### [Step 1: Define Requirements](#step-1-define-requirements)
+### [Step 1: Define Requirements]
 - [Identify stakeholders and gather functional, technical, and compliance-related requirements.](#step-1-define-requirements)
 
 ### [Step 2: Choose Technology Stack](#step-2-choose-technology-stack)

@@ -1,7 +1,5 @@
 # Whitepaper: C for Consensus
 
-## Abstract
-
 C for Consensus is a pioneering online social platform that leverages the robust Pi Coins blockchain infrastructure to redefine community consensus mechanisms in digital environments. This document outlines our technological framework, key features, operational principles, and our vision for democratizing digital interactions across various sectors.
 
 ## Table of Contents
@@ -22,10 +20,6 @@ C for Consensus is a pioneering online social platform that leverages the robust
 - [Conclusion](#conclusion)
 - [Appendix](#appendix)
 - [References](#references)
-
-## Introduction
-
-# Whitepaper: C for Consensus
 
 ## Introduction
 

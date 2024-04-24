@@ -1,31 +1,85 @@
-# Pi Demo App
+# Whitepaper: C for Consensus
 
-Pi Demo App is an example of how you can implement the various required flows in your app's code.
-It aims to show you how to use Pi Platform API on the backend side and Pi SDK on the frontend side of your app.
+## Abstract
 
+C for Consensus is a pioneering online social platform that leverages the robust Pi Coins blockchain infrastructure to redefine community consensus mechanisms in digital environments. This document outlines our technological framework, key features, operational principles, and our vision for democratizing digital interactions across various sectors.
 
-It is composed of two major parts:
+## Table of Contents
 
-* **backend**: a backend app (a very simple JSON API built using Node and ExpressJS)
-* **frontend**: a single-page frontend app (built using React and create-react-app)
+- [Introduction](#introduction)
+- [Background](#background)
+  - [Problem Statement](#problem-statement)
+  - [Existing Solutions and Limitations](#existing-solutions-and-limitations)
+- [Solution Overview](#solution-overview)
+  - [Architecture](#architecture)
+  - [Consensus Mechanism](#consensus-mechanism)
+  - [Pi Coins Integration](#pi-coins-integration)
+- [Features](#features)
+- [Technical Specifications](#technical-specifications)
+- [Use Cases](#use-cases)
+- [Security](#security)
+- [Future Work](#future-work)
+- [Conclusion](#conclusion)
+- [Appendix](#appendix)
+- [References](#references)
 
+## Introduction
 
-## Initial Development
+This section introduces the concept behind C for Consensus, detailing the overarching goals and the core value proposition of utilizing blockchain technology in social platforms.
 
-Read [`doc/development.md`](./doc/development.md) to get started and learn how to run this app in development.
+## Background
 
-> **WARNING**
->
-> The demo app uses express session cookies which, in the Sandbox environment, are not correctly saved on the client on some browsers.
-> To properly test all of the features of the Demo App, we recommend you to open the sandbox app using Mozilla Firefox.
+### Problem Statement
 
+Describe the specific problems in existing social platforms that C for Consensus aims to address, such as issues with transparency, data security, and user governance.
 
-## Deployment
+### Existing Solutions and Limitations
 
-Read [`doc/deployment.md`](./doc/deployment.md) to learn how to deploy this app on a server using Docker and docker-compose.
+Analyze current solutions in the market and discuss their limitations, setting the stage for the unique advantages provided by your platform.
 
+## Solution Overview
 
-## Flows
+### Architecture
 
-To dive into the implementation of the flows that support the demo app features, please refer to
-[Pi Demo App Flows](./FLOWS.md).
+Detail the architectural framework of C for Consensus, illustrating how different components of the platform interact within the blockchain infrastructure.
+
+### Consensus Mechanism
+
+Explain the consensus mechanism that your platform uses, highlighting its benefits and efficiency compared to traditional methods.
+
+### Pi Coins Integration
+
+Describe how Pi Coins are integrated into your platform, focusing on the advantages this integration offers to users and stakeholders.
+
+## Features
+
+Enumerate the innovative features of C for Consensus, emphasizing functionalities like real-time voting, decentralized governance, and enhanced security features.
+
+## Technical Specifications
+
+Provide detailed technical specifications of your platform, including network protocols, coding languages used, API endpoints, and data structures.
+
+## Use Cases
+
+Illustrate several practical use cases of C for Consensus, demonstrating its versatility and effectiveness in real-world scenarios.
+
+## Security
+
+Discuss the security protocols and measures in place to protect user data and transactions within your platform.
+
+## Future Work
+
+Outline the roadmap and future developments planned for C for Consensus, providing insights into the strategic direction and anticipated enhancements.
+
+## Conclusion
+
+Summarize the key points discussed and reiterate how C for Consensus will impact the future of digital interactions and blockchain-based social platforms.
+
+## Appendix
+
+Include any additional information, such as technical diagrams, code snippets, or mathematical models, that supports the whitepaper's content.
+
+## References
+
+List all the references and sources cited in the whitepaper to provide credibility and allow readers to follow up for more information.
+
